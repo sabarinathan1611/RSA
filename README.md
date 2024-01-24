@@ -5,7 +5,7 @@ Prerequisites
 
 Ensure you have the rsa library installed. If not, you can install it using:
 
-bash
+
 
 pip install rsa
 
@@ -15,7 +15,7 @@ How to Run
 
     Run the script:
 
-    bash
+    
 
     python your_script_name.py
 
@@ -39,10 +39,7 @@ The main part of the script:
 
     Prints the original message, encrypted message, and decrypted message.
 
-Example Output
-
-bash
-
-Original Message: RSA encryption and decryption!
-Encrypted Message: b'\x92\xb7\xa7\x18\x95o\xcbw\xae\xc7\x9b\xbf'
-Decrypted Message: RSA encryption and decryption!
+Example Output:
+    Original Message: RSA encryption and decryption!
+    Encrypted Message: b'\x92\xb7\xa7\x18\x95o\xcbw\xae\xc7\x9b\xbf'
+    Decrypted Message: RSA encryption and decryption!
