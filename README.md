@@ -1,4 +1,4 @@
-#RSA Encryption and Decryption in Python
+# RSA Encryption and Decryption in Python
 
 This Python program demonstrates RSA encryption and decryption using the rsa library. The program generates an RSA key pair, encrypts a message with the public key, and then decrypts the message with the private key.
 Prerequisites
